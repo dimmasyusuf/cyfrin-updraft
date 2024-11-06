@@ -30,3 +30,11 @@
 - Security and Immutability
 - Counterparty Risk Removal
 - Trust Minimized Agreements
+
+## What have Smart Contracts done so far?
+
+- [DeFi](https://chain.link/education/defi)
+  - [DeFi Llama](https://defillama.com/)
+  - [Why is DeFi important?](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
+- [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
+- [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
