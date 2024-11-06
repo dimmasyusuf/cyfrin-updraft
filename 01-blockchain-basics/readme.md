@@ -38,3 +38,13 @@
   - [Why is DeFi important?](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
 - [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
+
+## Making Your First Transaction
+
+- [MetaMask Download Link](https://metamask.io/)
+  - [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
+  - [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
+- [Etherscan](https://etherscan.io/)
+- [Sepolia Etherscan](https://etherscan.io/address/0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419)
+- [Sepolia Faucet](https://docs.chain.link/docs/link-token-contracts/#sepolia)
+- [Sepolia ETH Faucet](https://faucets.chain.link/)
