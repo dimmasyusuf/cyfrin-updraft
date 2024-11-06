@@ -86,3 +86,10 @@
 - [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 - [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 - [The merge](https://ethereum.org/en/eth2/)
+
+## L1s L2s and Rollups
+
+- [Replay Attacks](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
+- [Sybil Attacks](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
+- [Double Spending](https://www.cyfrin.io/blog/understanding-double-spending-in-blockchain)
+- [Zero Knowledge Proofs](https://ethereum.org/en/zero-knowledge-proofs/)
