@@ -66,3 +66,11 @@
 - [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
 - [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 - [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
+
+## Gas II: Advanced Gas Concepts
+
+- [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
+- Advanced Gas
+  - [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
+  - GWEI, WEI, and ETH
+    - [ETH Converter](https://eth-converter.com/)
