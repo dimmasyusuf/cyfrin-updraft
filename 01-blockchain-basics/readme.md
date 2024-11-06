@@ -93,3 +93,7 @@
 - [Sybil Attacks](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
 - [Double Spending](https://www.cyfrin.io/blog/understanding-double-spending-in-blockchain)
 - [Zero Knowledge Proofs](https://ethereum.org/en/zero-knowledge-proofs/)
+
+## Rollup Stages
+
+- [L2 Beat](https://l2beat.com/scaling/summary)
