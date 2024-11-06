@@ -21,3 +21,12 @@
 - [What is a Smart Contract?](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 - [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
+
+## Other Blockchain Benefits
+
+- Decentralized
+- Transparency and Flexibility
+- Speed and Efficiency
+- Security and Immutability
+- Counterparty Risk Removal
+- Trust Minimized Agreements
