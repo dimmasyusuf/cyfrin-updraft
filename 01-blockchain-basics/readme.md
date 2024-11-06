@@ -48,3 +48,9 @@
 - [Sepolia Etherscan](https://etherscan.io/address/0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419)
 - [Sepolia Faucet](https://docs.chain.link/docs/link-token-contracts/#sepolia)
 - [Sepolia ETH Faucet](https://faucets.chain.link/)
+
+## Gas I: Introduction to Gas
+
+- [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
+- [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
+- [ETH Gas Station](https://ethgasstation.info/)
