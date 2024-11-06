@@ -78,3 +78,11 @@
 ## Gas II: Summary
 
 - [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
+
+## High-Level Blockchain Fundamentals
+
+- [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
+- [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+- [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+- [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
+- [The merge](https://ethereum.org/en/eth2/)
