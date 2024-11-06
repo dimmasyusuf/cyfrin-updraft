@@ -101,3 +101,7 @@
 ## Making Your First Transaction on ZKsync
 
 - [ZKsync Bridge](https://portal.zksync.io/bridge/?network=sepolia)
+
+## Why ZKsync is Our Recommended Chain
+
+- [ZKsync](https://zksync.io/)
