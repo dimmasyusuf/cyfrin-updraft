@@ -105,3 +105,8 @@
 ## Why ZKsync is Our Recommended Chain
 
 - [ZKsync](https://zksync.io/)
+
+## Blockchain Basics Section 1 NFTs
+
+- [ZKsync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
+- [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
