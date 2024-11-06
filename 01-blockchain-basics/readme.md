@@ -54,3 +54,9 @@
 - [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 - [ETH Gas Station](https://ethgasstation.info/)
+
+## How Do Blockchains Work?
+
+- [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
+- [Blockchain Demo](https://andersbrownworth.com/blockchain/)
+- [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
