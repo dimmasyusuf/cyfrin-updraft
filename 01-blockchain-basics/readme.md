@@ -74,3 +74,7 @@
   - [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
   - GWEI, WEI, and ETH
     - [ETH Converter](https://eth-converter.com/)
+
+## Gas II: Summary
+
+- [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
