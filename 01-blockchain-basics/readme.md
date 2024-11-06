@@ -97,3 +97,7 @@
 ## Rollup Stages
 
 - [L2 Beat](https://l2beat.com/scaling/summary)
+
+## Making Your First Transaction on ZKsync
+
+- [ZKsync Bridge](https://portal.zksync.io/bridge/?network=sepolia)
